@@ -1,6 +1,9 @@
 1. Superpowers（:star: 90k+）: [https://github.com/obra/superpowers](https://github.com/obra/superpowers)
+   
   类型：Skills Framework，准确的说，这其实是一整套工程方法论系统
+
   兼容：Claude Code（Marketplace 已收录）、Codex、Gemini CLI、OpenCode、Cursor
+  
   强制 coding agents 走 TDD+代码审查，不让 coding agent 偷懒
 
 2. SuperClaude Framework（:star: 21.8k）：[https://github.com/SuperClaude-Org/SuperClaude_Framework](https://github.com/SuperClaude-Org/SuperClaude_Framework)
